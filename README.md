@@ -1,2 +1,2 @@
-# bluefoxy-server
-Backend server for Blue Foxy project
+# bluefox-server
+Backend server for Blue Fox project
